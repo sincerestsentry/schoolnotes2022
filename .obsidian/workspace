@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "38df4e7b97bc257d",
+    "type": "split",
+    "children": [
+      {
+        "id": "707e1597ee840dfa",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a18e37cb3bcff40c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1efc38a555001160",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64abf15a36953b92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad74b73ba9bce570",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Ngala",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed06d7aaa1474b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "77511ccb0e9288ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2308fb14271d795",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "707e1597ee840dfa",
+  "lastOpenFiles": [
+    "SOCY100 Benedict Ngala SP2022/Textbook Notes/Chapter 10.md",
+    "SOCY100 Benedict Ngala SP2022/Writing Assignment Two/Writing Assignment Two Research.md",
+    "SOCY100 Benedict Ngala SP2022/Textbook Notes/Chapter 5.md",
+    "SOCY100 Benedict Ngala SP2022/Textbook Notes/Chapter 1.md",
+    "SOCY100 Benedict Ngala SP2022/Textbook Notes/Chapter 7.md",
+    "SOCY100 Benedict Ngala SP2022/Textbook Notes/Chapter 9.md",
+    "SOCY100 Benedict Ngala SP2022/Textbook Notes/Chapter 6.md",
+    "SOCY100 Benedict Ngala SP2022/Textbook Notes/Chapter 3.md",
+    "SOCY100 Benedict Ngala SP2022/Textbook Notes/Chapter 2.md",
+    "SOCY100 Benedict Ngala SP2022/Textbook Notes/People You Should Know.md"
+  ]
+}
